@@ -1,0 +1,4 @@
+calendariosLaborales\api\dominio\entidades\Festivo.class
+calendariosLaborales\api\dtos\FestivoDTO.class
+calendariosLaborales\api\dominio\entidades\Tipo.class
+calendariosLaborales\api\dominio\entidades\Pais.class
