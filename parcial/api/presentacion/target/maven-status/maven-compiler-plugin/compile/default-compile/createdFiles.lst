@@ -1,8 +1,0 @@
-campeonatosfifa\api\ApiApplication.class
-campeonatosfifa\api\presentacion\controladores\GrupoControlador.class
-campeonatosfifa\api\presentacion\controladores\EstadioControlador.class
-campeonatosfifa\api\presentacion\controladores\FaseControlador.class
-campeonatosfifa\api\presentacion\controladores\CampeonatoControlador.class
-campeonatosfifa\api\presentacion\controladores\CiudadControlador.class
-campeonatosfifa\api\presentacion\controladores\EncuentroControlador.class
-campeonatosfifa\api\presentacion\controladores\SeleccionControlador.class
