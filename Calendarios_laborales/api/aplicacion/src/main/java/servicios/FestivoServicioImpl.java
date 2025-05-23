@@ -74,8 +74,8 @@ public class FestivoServicioImpl implements IFestivoServicio {
     public List<Festivo> obtenerFestivosDelAnio(String pais, int anio) {
         return festivoRepositorio.findAll().stream()
             .filter(f -> f.getFecha() != null &&
-                         f.getPais().getNombre().equalsIgnoreCase(pais) &&
-                         f.getFecha().getYear() == anio)
+                        f.getPais().getNombre().equalsIgnoreCase(pais) &&
+                        f.getFecha().getYear() == anio)
             .toList();
     }
 
